@@ -12,6 +12,10 @@ body {
   /* your properties here */
 }
 
+.bigItem {
+  
+}
+
 .grid-item {
   background-color: grey;
   border: 1px solid black;
